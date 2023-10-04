@@ -10,7 +10,6 @@ function ExploreBooks (){
                     <a type="button" className="btn btn-primary main-color text-white" href="/">Selected books</a>
                 </div>
             </div>
-            <Carousel />
         </div>
     );
 }
