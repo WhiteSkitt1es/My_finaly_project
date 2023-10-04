@@ -71,3 +71,5 @@ function CallAction () {
     </div >
     );
 }
+
+export default CallAction;
