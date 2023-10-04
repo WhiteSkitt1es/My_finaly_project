@@ -4,7 +4,7 @@ function Carousel() {
   return (
     <div className="container mt-3 carousel-container">
       <div className="homepage-carousel-title">
-        <h3>Выберите книгу</h3>
+        <h3>Select a book</h3>
       </div>
       <div
         id="carouselExampleControls"
@@ -42,7 +42,7 @@ function Carousel() {
           <span
             className="carousel-control-prev-icon"
             aria-hidden="true"></span>
-          <span className="visually-hidden">Предыдущий</span>
+          <span className="visually-hidden">Previous</span>
         </button>
 
         <button
@@ -54,7 +54,7 @@ function Carousel() {
           <span
             className="carousel-control-next-icon"
             aria-hidden="true"></span>
-          <span className="visually-hidden">Следующий</span>
+          <span className="visually-hidden">Next</span>
         </button>
       </div>
 
