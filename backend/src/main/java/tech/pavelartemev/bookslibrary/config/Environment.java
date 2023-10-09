@@ -16,7 +16,7 @@ public final class Environment {
         return instance;
     }
 
-    public static String getHost() {
+    public String getHost() {
         return instance.host;
     }
 }
